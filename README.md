@@ -25,4 +25,8 @@ Contains jupyter notebooks from module
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/cflynn76/num-methods/master?filepath=topic_06_numerical_differentiation.ipynb
 
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cflynn76/num-methods/master?filepath=topic_06_numerical_differentiation.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/cflynn76/num-methods/master?filepath=topic_07_plotting_curve_fitting.ipynb
+
 
