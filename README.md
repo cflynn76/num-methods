@@ -28,5 +28,9 @@ Contains jupyter notebooks from module
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cflynn76/num-methods/master?filepath=topic_07_plotting_curve_fitting.ipynb)
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/cflynn76/num-methods/master?filepath=topic_07_plotting_curve_fitting.ipynb
+ 
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cflynn76/num-methods/master?filepath=topic_08_first_order_IVP.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/cflynn76/num-methods/master?filepath=topic_08_first_order_IVP.ipynb
 
 
